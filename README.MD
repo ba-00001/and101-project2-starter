@@ -7,7 +7,7 @@ Time spent: **5** hours spent in total.
 
 ## Summary
 
-**AND101.PROJECT2** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  It uses functions in int, strings, and methods. 
+**AND101.PROJECT2** is an Android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  It uses functions in int, strings, and methods. 
 
 If I had to describe this project in three (3) emojis, they would be: ** 📱🔵🎨**
 
@@ -17,9 +17,9 @@ If I had to describe this project in three (3) emojis, they would be: ** 📱�
 The following REQUIRED features are completed:
 
 - [ x] 👋 Debug and fix navigation to Hello World activity
-- [x ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [x ] 4️⃣ Debug and fix Number Sum (2 + 2) Activity
 - [ x] 📅 Debug and fix Current Day activity 
-- [ x] 🌈 Debug and fix behavior of Random Color activity
+- [ x] 🌈 Debug and fix the behavior of Random Color activity
 - [x ] 🗒️ Debug and fix Print List activity
 - [x ] 💯 Debug and fix Favorite Number activity
 
@@ -36,6 +36,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src= https://imgur.com/gallery/e1DEhK6  />
+https://imgur.com/gallery/e1DEhK6 
 
 GIF created with **ScreenToGif**
 
